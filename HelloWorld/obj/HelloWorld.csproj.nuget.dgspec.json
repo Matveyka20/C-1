@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Lek1\\HelloWorld\\HelloWorld.csproj": {}
+    "c:\\Lek1\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Lek1\\HelloWorld\\HelloWorld.csproj": {
+    "c:\\Lek1\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Lek1\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "c:\\Lek1\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Lek1\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "c:\\Lek1\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\karpo\\.nuget\\packages\\",
-        "outputPath": "C:\\Lek1\\HelloWorld\\obj\\",
+        "outputPath": "c:\\Lek1\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karpo\\AppData\\Roaming\\NuGet\\NuGet.Config"
