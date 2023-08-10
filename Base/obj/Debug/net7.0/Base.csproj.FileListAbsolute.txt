@@ -1,0 +1,15 @@
+C:\Lek1\Base\bin\Debug\net7.0\Base.exe
+C:\Lek1\Base\bin\Debug\net7.0\Base.deps.json
+C:\Lek1\Base\bin\Debug\net7.0\Base.runtimeconfig.json
+C:\Lek1\Base\bin\Debug\net7.0\Base.dll
+C:\Lek1\Base\bin\Debug\net7.0\Base.pdb
+C:\Lek1\Base\obj\Debug\net7.0\Base.csproj.AssemblyReference.cache
+C:\Lek1\Base\obj\Debug\net7.0\Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lek1\Base\obj\Debug\net7.0\Base.AssemblyInfoInputs.cache
+C:\Lek1\Base\obj\Debug\net7.0\Base.AssemblyInfo.cs
+C:\Lek1\Base\obj\Debug\net7.0\Base.csproj.CoreCompileInputs.cache
+C:\Lek1\Base\obj\Debug\net7.0\Base.dll
+C:\Lek1\Base\obj\Debug\net7.0\refint\Base.dll
+C:\Lek1\Base\obj\Debug\net7.0\Base.pdb
+C:\Lek1\Base\obj\Debug\net7.0\Base.genruntimeconfig.cache
+C:\Lek1\Base\obj\Debug\net7.0\ref\Base.dll
