@@ -1,0 +1,15 @@
+C:\Lek1\if_else\bin\Debug\net7.0\if_else.exe
+C:\Lek1\if_else\bin\Debug\net7.0\if_else.deps.json
+C:\Lek1\if_else\bin\Debug\net7.0\if_else.runtimeconfig.json
+C:\Lek1\if_else\bin\Debug\net7.0\if_else.dll
+C:\Lek1\if_else\bin\Debug\net7.0\if_else.pdb
+C:\Lek1\if_else\obj\Debug\net7.0\if_else.csproj.AssemblyReference.cache
+C:\Lek1\if_else\obj\Debug\net7.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lek1\if_else\obj\Debug\net7.0\if_else.AssemblyInfoInputs.cache
+C:\Lek1\if_else\obj\Debug\net7.0\if_else.AssemblyInfo.cs
+C:\Lek1\if_else\obj\Debug\net7.0\if_else.csproj.CoreCompileInputs.cache
+C:\Lek1\if_else\obj\Debug\net7.0\if_else.dll
+C:\Lek1\if_else\obj\Debug\net7.0\refint\if_else.dll
+C:\Lek1\if_else\obj\Debug\net7.0\if_else.pdb
+C:\Lek1\if_else\obj\Debug\net7.0\if_else.genruntimeconfig.cache
+C:\Lek1\if_else\obj\Debug\net7.0\ref\if_else.dll
